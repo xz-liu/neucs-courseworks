@@ -18,6 +18,8 @@ https://github.com/ThomasAtlantis/TinyCompiler
 
 https://github.com/joker-xii/c-compiler
 
+https://github.com/zhouziqunzzq/Compiler
+
 
 
 ## 操作系统
@@ -34,6 +36,8 @@ https://github.com/ThomasAtlantis/EFS
 
 https://github.com/Ch4osMy7h/UnixFileSystem
 
+https://github.com/zhouziqunzzq/bsfs
+
 
 ## Java
 
@@ -42,6 +46,15 @@ https://github.com/thankod/Paint
 https://github.com/Ch4osMy7h/JavaExprCalculator
 
 https://github.com/joker-xii/paint
+
+https://github.com/zhouziqunzzq/calc-java
+
+
+## Java Web
+
+https://github.com/zhouziqunzzq/login-homework
+
+https://github.com/zhouziqunzzq/slothblog
 
 
 
@@ -64,6 +77,10 @@ https://github.com/Ch4osMy7h/Calculator
 
 https://github.com/joker-xii/file-compressor
 
+https://github.com/zhouziqunzzq/qt-rbtree
+
+https://github.com/zhouziqunzzq/qt-address-book
+
 
 ## uwp
 
@@ -83,3 +100,8 @@ https://github.com/whoisnian/ScanLine
 https://github.com/whoisnian/Bresenham
 
 https://github.com/joker-xii/visual-algorithm
+
+
+## 信息安全
+
+https://github.com/zhouziqunzzq/infosechomework
